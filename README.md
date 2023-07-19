@@ -1,5 +1,5 @@
-# Modulo-2
-#O modelo de pokedex foi feito em um curso da Dio JavaScript Developer
+# Pokedex com javaScript
+alimentando com a API https://pokeapi.co/docs/v2
 
 
 link para acompanhar no Github pages 
